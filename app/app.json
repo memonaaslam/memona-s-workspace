@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Memona's Workspace",
+    "slug": "memonas-workspace",
+    "scheme": "memonasworkspace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0E1B36",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.memonaaslam.workspace"
+    },
+    "android": {
+      "package": "com.memonaaslam.workspace",
+      "adaptiveIcon": {
+        "backgroundColor": "#0E1B36"
+      }
+    },
+    "plugins": ["expo-secure-store"]
+  }
+}
